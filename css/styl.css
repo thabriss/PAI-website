@@ -1,0 +1,47 @@
+#header{
+	width: 100%;
+	background-color: #bababa;
+	font-size: 2em;
+	padding: 1em 0 1em 5em;
+}
+
+#footer{
+	width: 100%;
+	background-color: #bababa;
+	text-align: center;
+	padding: 1em 0 1em 0;
+}
+
+#logowanie{
+	text-align: center;
+	padding: 1em;
+}
+
+#dodaj{
+	padding: 2em;
+	background-color: gray;
+}
+
+.przedmiot{
+	height: 200px;
+	padding: 5px;
+}
+
+.opis{
+	margin-left:250px;
+}
+
+.obrazek{
+	float:left;
+}
+
+.container{
+	padding: 5px;
+}
+.left{
+	float: left;
+}
+
+.right{
+	float:right;
+}
